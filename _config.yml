@@ -1,1 +1,3 @@
-
+# add the following to _config.yml file
+title: Abhijit Bhavsar
+theme: jeykll-theme-minimal
