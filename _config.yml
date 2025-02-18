@@ -1,4 +1,7 @@
 # add the following to _config.yml file
 title: Abhijit Bhavsar
-theme: jeykll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+#theme: jeykll-theme-minimal
 #alternative theme : https://github.com/pages-themes/cayman
